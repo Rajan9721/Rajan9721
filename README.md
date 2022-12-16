@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### 📈 Statistics 
+ 
+<p align="center">  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajan9721&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajan9721&theme=tokyonight" />
+</p>
