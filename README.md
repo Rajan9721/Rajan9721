@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 📈 Statistics 
+ ![Rajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rajan9721&bg_color=151127&color=bfa8ff&line=636997&point=3e4975&area=true)
  
+
 <p align="center">  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajan9721&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajan9721&theme=tokyonight" />
