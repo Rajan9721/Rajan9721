@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 📈 Statistics 
- ![Rajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rajan9721&bg_color=151127&color=bfa8ff&line=636997&point=3e4975&area=true)
+ ![Rajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rajan9721&bg_color=151126&color=bfa8ff&line=636997&point=3e4975&area=true)
  
 
 <p align="center">  
