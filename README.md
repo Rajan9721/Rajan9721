@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Project
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning JAVA with DSA & System Design.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Development
