@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, Rajan Rajbhar
 
+About :
+🔭 I have completed my masters in Computer Application(MCA) from Makhanlal Chaturvedi National University Bhopal.
 
-Here are some ideas to get you started:
+🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing
 
-- 🔭 I’m currently working on a Job Searching Website Project using Spring Boot.
-- 🌱 I’m currently learning Spring Boot.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java Development
-- 📫 How to reach me: its1.rajan@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+🔭 I’m currently working on a Job Searching Website Project using Spring Boot.
+
+🌱 I’m currently learning Spring Boot.
+
+Skills: Java | Data Structure | Algorithms | System Design | Servlet | Spring | Spring Boot | MySql | HTML 5 | Big Data | Hadoop | MongoDB | Linux
+
+📫 Reach me at: its1.rajan@gmail.com
 
 ### 📈 Statistics 
 
