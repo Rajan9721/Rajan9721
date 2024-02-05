@@ -3,7 +3,7 @@
 About :
 🔭 I have completed my masters in Computer Application(MCA) from Makhanlal Chaturvedi National University Bhopal.
 
-🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing
+🔭 
 
 🔭 I’m currently working on a Job Searching Website Project using Spring Boot.
 
