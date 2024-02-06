@@ -5,7 +5,7 @@ About :
 
 🔭 
 
-🔭 I’m currently working on a Job Searching Website Project using Spring Boot.
+🔭 I’m currently working on a Job Searching Website Project using Spring Boot framework.
 
 🌱 I’m currently learning Spring Boot.
 
